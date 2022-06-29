@@ -1,4 +1,4 @@
-<h1 align="center">Telegram UI Clone ISO App</h1>
+<h1 align="center">Telegram UI Clone IOS App</h1>
 <h3 align="center"> FullStack Developer Mehmet ERDOGAN</h3>
 
 <h3 align="left">Benimle iletişime geçin: </h3>
